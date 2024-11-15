@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.AssemblyInfo.cs
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TodoList\BakingRecipes\bin\Debug\net8.0\BakingRecipes.exe
+C:\Users\chris\source\repos\TodoList\BakingRecipes\bin\Debug\net8.0\BakingRecipes.deps.json
+C:\Users\chris\source\repos\TodoList\BakingRecipes\bin\Debug\net8.0\BakingRecipes.runtimeconfig.json
+C:\Users\chris\source\repos\TodoList\BakingRecipes\bin\Debug\net8.0\BakingRecipes.dll
+C:\Users\chris\source\repos\TodoList\BakingRecipes\bin\Debug\net8.0\BakingRecipes.pdb
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.dll
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\refint\BakingRecipes.dll
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.pdb
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\BakingRecipes.genruntimeconfig.cache
+C:\Users\chris\source\repos\TodoList\BakingRecipes\obj\Debug\net8.0\ref\BakingRecipes.dll
